@@ -23,13 +23,6 @@
   <li>[Game Project 2](#) - Another cool project</li>
 </ul>
 
-## 🤝 Let's Connect
-<p style="color: #34495e;">If you want to chat or collaborate, don’t hesitate to reach out!</p>
-<ul style="color: #34495e;">
-  <li>[LinkedIn](#)</li>
-  <li>[Twitter](#)</li>
-</ul>
-
 <div style="text-align: center; margin-top: 20px;">
   <p style="color: #8e44ad;">Happy coding! 🎮</p>
 </div>
