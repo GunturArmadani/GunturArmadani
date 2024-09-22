@@ -19,8 +19,7 @@
 ## 🚀 Projects
 <p style="color: #34495e;">Feel free to check out my repositories and contribute if you find something interesting!</p>
 <ul style="color: #34495e;">
-  <li>[Game Project 1](#) - A fun little game I built</li>
-  <li>[Game Project 2](#) - Another cool project</li>
+  <li><a href="https://github.com/GunturArmadani/first-game"> Flappy Bird - My first game </a></li>
 </ul>
 
 <div style="text-align: center; margin-top: 20px;">
