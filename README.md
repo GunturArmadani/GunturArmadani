@@ -20,6 +20,7 @@
 <p style="color: #34495e;">Feel free to check out my repositories and contribute if you find something interesting!</p>
 <ul style="color: #34495e;">
   <li><a href="https://github.com/GunturArmadani/first-game"> Flappy Bird - My first game </a></li>
+  <li><a href="https://github.com/GunturArmadani/sabtu-belajar">Platformer Pixel</a></li>
 </ul>
 
 <div style="text-align: center; margin-top: 20px;">
