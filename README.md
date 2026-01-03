@@ -2,53 +2,53 @@
 
 <div align="center" style="background-color:#f0f8ff; padding:20px; border-radius:10px;">
 
-## 👤 Tentang Saya
+## 👤 About Me
 
-Halo! Saya adalah seorang pembelajar yang tertarik pada  
-**Artificial Intelligence (AI)** dan **Keamanan Siber (Cyber Security)**.  
+Hi! I am an **Informatics Engineering student** with a strong interest in  
+**Cyber Security, Artificial Intelligence (AI), and Game Development**.
 
-Saya senang mempelajari cara kerja sistem, memahami celah keamanan *(secara etis)*,  
-serta meningkatkan keamanan teknologi.
-
-Di luar itu, saya juga menyukai **pengembangan game** sebagai hobi dan sarana berkreasi 🎮
+I enjoy learning how computer systems and software work, how intelligent systems are built,  
+and how digital systems can be protected from cyber threats.  
+I am also interested in how technology is applied in the gaming industry, both for creativity and problem-solving.
 
 </div>
 
 ---
 
-## 📍 Lokasi
-📌 **Batang, Jawa Tengah, Indonesia**
+## 📍 Location
+📌 **Batang, Central Java, Indonesia**
 
 ---
 
-## 🧠 Fokus Belajar & Aktivitas Saat Ini
-Saat ini saya sedang fokus pada:
-- 🤖 Dasar-dasar Artificial Intelligence  
-- 🔐 Dasar Keamanan Siber (sistem, kerentanan, dan pertahanan)  
-- 💻 Pengembangan kemampuan pemrograman & pemecahan masalah  
+## 🧠 Current Focus & Activities
+Currently, I am focusing on:
+- 🤖 Artificial Intelligence fundamentals (logic, data, and intelligent systems)  
+- 🔐 Cyber Security basics (systems, vulnerabilities, ethical analysis, and defense)  
+- 💻 Strengthening programming skills, algorithms, and problem-solving  
 
 ---
 
-## 🎮 Hobi & Ketertarikan
-- Membuat game sebagai hobi dan media belajar  
-- Elektronika (merakit robot sederhana)  
-- Memperbaiki HP dan laptop yang rusak  
-- Eksperimen perangkat lunak & perangkat keras  
+## 🎮 Hobbies & Interests
+- Game development as a hobby and learning medium  
+- Exploring AI and security concepts through small experiments  
+- Electronics (building simple robots)  
+- Repairing smartphones and laptops  
+- Software & hardware experimentation  
 
 ---
 
-## 🚀 Proyek
-Proyek-proyek berikut mencerminkan perjalanan saya,  
-terutama di bidang **game development** yang masih saya tekuni sebagai hobi:
+## 🚀 Projects
+These projects reflect my learning journey as an **Informatics Engineering student**,  
+especially in **game development**, which I pursue as a creative hobby:
 
-- 🎮 **Flappy Bird – Game pertama saya**  
+- 🎮 **Flappy Bird – My first game**  
   👉 https://github.com/GunturArmadani/first-game  
 
-- 🕹️ **Platformer Pixel**  
+- 🕹️ **Pixel Platformer**  
   👉 https://github.com/GunturArmadani/sabtu-belajar  
 
 ---
 
 <p align="center">
-  🚀 <i>Terus belajar, bereksperimen, dan berkembang</i>
+  🚀 <i>Continuously learning, experimenting, and growing</i>
 </p>
