@@ -1,54 +1,74 @@
 # 🌟 Yahalooo 👋
 
-<div align="center" style="background-color:#f0f8ff; padding:20px; border-radius:10px;">
+Hi! I'm **Guntur**, an **Informatics Engineering student** from Indonesia.
 
-## 👤 About Me
+I enjoy learning how technology works and experimenting with small projects just to see **what I can build, break, and learn from.**
 
-Hi! I am an **Informatics Engineering student** with a strong interest in  
-**Cyber Security, Artificial Intelligence (AI), and Game Development**.
+I'm particularly interested in exploring:
 
-I enjoy learning how computer systems and software work, how intelligent systems are built,  
-and how digital systems can be protected from cyber threats.  
-I am also interested in how technology is applied in the gaming industry, both for creativity and problem-solving.
+* 🤖 **Artificial Intelligence**
+* 🔐 **Cybersecurity**
+* 🎮 **Game Development**
 
-</div>
-
----
-
-## 📍 Location
-📌 **Batang, Central Java, Indonesia**
+I'm still exploring these areas rather than specializing in one of them. For me, small experiments and personal projects are a fun way to learn, understand concepts, and occasionally create something useful.
 
 ---
 
-## 🧠 Current Focus & Activities
-Currently, I am focusing on:
-- 🤖 Artificial Intelligence fundamentals (logic, data, and intelligent systems)  
-- 🔐 Cyber Security basics (systems, vulnerabilities, ethical analysis, and defense)  
-- 💻 Strengthening programming skills, algorithms, and problem-solving  
+## 🧪 Experiments & Learning
 
----
+Most of the things you'll find here are part of my learning journey.
 
-## 🎮 Hobbies & Interests
-- Game development as a hobby and learning medium  
-- Exploring AI and security concepts through small experiments  
-- Electronics (building simple robots)  
-- Repairing smartphones and laptops  
-- Software & hardware experimentation  
+I like experimenting with:
+
+* 💻 Programming and software
+* 🤖 AI and intelligent systems
+* 🔐 Cybersecurity concepts
+* 🎮 Game development
+* 🔧 Electronics and simple hardware projects
+
+Some projects work.
+
+Some don't.
+
+Both are useful. 😆
 
 ---
 
 ## 🚀 Projects
-These projects reflect my learning journey as an **Informatics Engineering student**,  
-especially in **game development**, which I pursue as a creative hobby:
 
-- 🎮 **Flappy Bird – My first game**  
-  👉 https://github.com/GunturArmadani/first-game  
+A few projects from my learning journey:
 
-- 🕹️ **Pixel Platformer**  
-  👉 https://github.com/GunturArmadani/sabtu-belajar  
+### 🎮 Flappy Bird — My First Game
+
+My first step into game development and one of my early programming projects.
+
+→ https://github.com/GunturArmadani/first-game
+
+### 🕹️ Pixel Platformer
+
+A small platformer project I made while experimenting with game development.
+
+→ https://github.com/GunturArmadani/sabtu-belajar
+
+---
+
+## 🎥 Technology & Humor
+
+Besides coding and experimenting, I also enjoy making **technology-related videos with humor**.
+
+I like taking things I'm curious about, trying them out, and turning the experience into something entertaining and hopefully useful.
+
+---
+
+## 📚 Currently Exploring
+
+* Programming & algorithms
+* Artificial Intelligence
+* Cybersecurity
+* Game Development
 
 ---
 
 <p align="center">
-  🚀 <i>Continuously learning, experimenting, and growing</i>
+  🚀 <i>Learn. Experiment. Build. Repeat.</i>
 </p>
